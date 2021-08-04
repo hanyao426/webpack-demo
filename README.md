@@ -1,4 +1,6 @@
 # webpack-demo
 
-v0.0.1
-run 'npm i' or 'yarn'
+#### v0.0.1
+#### run 'npm i' or 'yarn'
+#### run 'npm strat'
+
